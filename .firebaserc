@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoe-3fbcc": {
+      "hosting": {
+        "angular-TicTacToe": [
+          "tictactoe-3fbcc"
+        ]
+      }
+    }
+  }
+}
